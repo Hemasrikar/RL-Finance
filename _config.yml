@@ -1,0 +1,17 @@
+title: Reinforcement Learning in Finance
+description: This project implements RL in Finance
+
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
+search_enabled: true
+color_scheme: light
+
+aux_links: {}
+toc:
+  enabled: true
+  
+kramdown:
+  syntax_highlighter: rouge
