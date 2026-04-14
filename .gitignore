@@ -1,2 +1,5 @@
 .DS_Store
-notebooks/__pycache__/
+__pycache__/
+.venv
+*.pyc
+.ipynb_checkpoints/
