@@ -8,3 +8,4 @@ This is an attempt of replicating the algorithms and results from the survey pap
  - Q-Learning 
  - SARSA
  - Monte Carlo Plocy Gradient
+ - Deep Q-Network (DQN)
