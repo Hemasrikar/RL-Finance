@@ -10,6 +10,7 @@ This is an attempt of replicating the algorithms and results from the survey pap
  - [Monte Carlo Plocy Gradient](./notebooks/mc_policy_gradient.ipynb)
  - [Deep Q-Network (DQN)](./notebooks/deep_qnetwork.ipynb)
  - [Actor Critic](./notebooks/actor_critic.ipynb)
+ - [DDPG: Deep Deterministic Policy Gradient](./notebooks/ddpg.ipynb)
 
 ## Finance Applicaions
 - [Almgren-Criss Optimal Execution](./notebooks/almgren_criss_optimalexceution.ipynb)
