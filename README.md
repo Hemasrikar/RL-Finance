@@ -16,3 +16,5 @@ This is an attempt of replicating the algorithms and results from the survey pap
 - [Almgren-Criss Optimal Execution](./notebooks/almgren_criss_optimalexceution.ipynb)
 - [QLBS: Q-Learner in Black-Scholes (Option Pricing & Hedging)](./notebooks/qlbs.ipynb)
 - [Mean-Variance Portfolio Optimization (LQ Frame Work)](./notebooks/markowitz.ipynb)
+
+**Note**: The folder [cuda-notebooks](./cuda-notebooks/) has the algorithms written to leverage the CUDA processing. All the algorithms are run on a NVidia RTX2080 Super MAX-Q
